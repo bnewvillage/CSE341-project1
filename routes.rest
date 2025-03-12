@@ -1,0 +1,7 @@
+GET http://localhost:3000/
+
+### Contacts ALL
+GET http://localhost:3000/contacts/
+
+### Contacts select
+GET http://localhost:3000/contacts/67cc45c6bdf0d208c8d59eb4
